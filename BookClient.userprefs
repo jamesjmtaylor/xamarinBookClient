@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{835D8C29-121E-45E5-873D-A628FF9B25AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookClient/BookClient/AddEditBookPage.cs">
+    <Files>
+      <File FileName="BookClient/BookClient/Data/Book.cs" Line="1" Column="1" />
+      <File FileName="BookClient/BookClient/Data/BookManager.cs" Line="72" Column="1" />
+      <File FileName="BookClient/BookClient/AddEditBookPage.cs" Line="99" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookClient.Droid PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.ItemProperties.BookClient.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.692A8524-9417-4C23-843D-E826F52AC777" />
+</Properties>
